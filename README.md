@@ -20,23 +20,24 @@ O NeuralBots Dashboard será uma interface gráfica desktop para acompanhar o es
 
 As funcionalidades acima são objetivos de desenvolvimento; elas não significam que já estejam implementadas.
 
-## Prévia do design
+## Prévia das interfaces
 
-As capturas de tela do protótipo podem ser adicionadas à pasta `docs/`.
+As cinco imagens abaixo representam as telas planejadas para o painel. Salve os arquivos com os nomes indicados dentro da pasta `docs/`.
 
-| Tela | Prévia |
-|---|---|
-| Dashboard | `docs/dashboard.png` |
-| Vision | `docs/vision.png` |
-| Hardware | `docs/hardware.png` |
-| Logs | `docs/logs.png` |
-| Settings | `docs/settings.png` |
-
-Quando as imagens forem adicionadas ao repositório, você pode exibi-las diretamente nesta seção. Por exemplo:
-
-```md
+### Dashboard
 ![Dashboard da NeuralBots](docs/dashboard.png)
-```
+
+### Vision
+![Vision da NeuralBots](docs/vision.png)
+
+### Hardware
+![Hardware da NeuralBots](docs/hardware.png)
+
+### Logs
+![Logs da NeuralBots](docs/logs.png)
+
+### Settings
+![Settings da NeuralBots](docs/settings.png)
 
 ## Protótipo no Figma
 
