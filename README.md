@@ -39,9 +39,6 @@ As cinco imagens abaixo representam as telas planejadas para o painel. Salve os 
 ### Settings
 ![Settings da NeuralBots](docs/settings.png)
 
-## Protótipo no Figma
-
-O design é desenvolvido no Figma. Consulte [`design/figma-link.md`](design/figma-link.md) para acessar o link do protótipo.
 
 ## Estrutura do repositório
 
@@ -54,8 +51,6 @@ NeuralBots-Dashboard/
 │   ├── hardware.png
 │   ├── logs.png
 │   └── settings.png
-├── design/
-│   └── figma-link.md
 ├── src/              # Código do aplicativo (futuramente)
 ├── config/           # Arquivos de configuração (futuramente)
 └── LICENSE
